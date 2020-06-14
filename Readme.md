@@ -16,5 +16,5 @@ which bsc
 $ make build
 
 $ make link
-# To see the output in terminal: :
+# To see the output in terminal:)
 $ make run
